@@ -44,7 +44,7 @@ section > h1 {
     padding-bottom: 30px;
 }
 
-label{
+div#resultado, form{
     margin-left: 10px;
 }
 
